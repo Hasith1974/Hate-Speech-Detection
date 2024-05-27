@@ -20,11 +20,11 @@ Provide instructions on how to install and run your projects.
 -creating the separate dependencies for your project like virtual Environment
 
 ## Using Libraries
-.pip install numpy
-.pip install pandas
-.pip install matplotlib
--pip install sklearn
--pip install seaborn
+--pip install numpy
+--pip install pandas
+--pip install matplotlib
+--pip install sklearn
+--pip install seaborn
 
 <! HERE USING THE ABOVE LIST OF PYTHON LIBRARIES FOR THE PROJECT EXCECUTION !>
 
