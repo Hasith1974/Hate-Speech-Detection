@@ -2,9 +2,9 @@
  Hello guys,i hope as well this project makes a kick start for your beginning
 
 ## Project Lists
--,Project Title: Hate Speech Detection using machine learning.
--,Description: Here the project tells about the detecting hate speech like classifies the tweets
--,Technologies Used: python programming language using this project
+-Project Title: Hate Speech Detection using machine learning.
+*Description: Here the project tells about the detecting hate speech like classifies the tweets
++Technologies Used: python programming language using this project
 
 ## Features:
 Tweet Classification Categorize tweets as hate speech or non-hate speech.
