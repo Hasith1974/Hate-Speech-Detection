@@ -1,10 +1,8 @@
-## 1. Introduction of Project
-
-2. Project List
-Create a list of your projects. For each project, include the following:
-
-Project Title: A concise and descriptive title.
-Description: A brief description of what the project does and why it's useful.
+## 1. Introduction 
+Hello guys, My self Hasith Mani Charan Darla now iam currently 
+## 2. Project Lists
+-Project Title: Hate Speech Detection using machine learning.
+-Description: Here the project tells about the detecting hate speech like classifies the language 
 Technologies Used: List the programming languages, libraries, and tools used.
 Features: Highlight key features of the project.
 Visuals: If possible, add images or GIFs that demonstrate your project in action.
