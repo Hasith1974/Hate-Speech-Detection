@@ -1,10 +1,37 @@
-## 1. Introduction 
-Hello guys, My self Hasith Mani Charan Darla now iam currently 
-## 2. Project Lists
+## Hate Speech Detection using Machine Learning classification of tweets
+ Hello guys,i hope as well this project makes a kick start for your beginning
+
+## Project Lists
 -Project Title: Hate Speech Detection using machine learning.
--Description: Here the project tells about the detecting hate speech like classifies the language 
-Technologies Used: List the programming languages, libraries, and tools used.
-Features: Highlight key features of the project.
-Visuals: If possible, add images or GIFs that demonstrate your project in action.
-3. Installation and Usage
-Provide instructions on how to install and run your projects. This could be as simple as cloning the repo and running a script, or it may involve more detailed steps if your project requires specific configurations or dependencies.
+-Description: Here the project tells about the detecting hate speech like classifies the tweets
+-Technologies Used: python programming language using this project
+-Features: detecting the how tweets discribe in the dataset.
+
+## Data Format
+-This project accepts the (comma separated values)CSV Files
+
+## Installation and Usages
+Provide instructions on how to install and run your projects. 
+-Run & Execute the project using the juypter notebook
+-installation juypter notebook for requried packages & libraries
+-creating the separate dependencies for your project like virtual Environment
+
+## Using Libraries
+-pip install numpy
+-pip install pandas
+-pip install matplotlib
+-pip install sklearn
+-pip install seaborn
+
+<! HERE USING THE ABOVE LIST OF PYTHON LIBRARIES FOR THE PROJECT EXCECUTION !>
+
+## Contributions and Feedback
+Feedback and contributions are always welcome! Please feel free to fork the repo, open an issue, or send a pull request.
+
+## License
+This work is licensed under the MIT License.
+
+
+
+
+
