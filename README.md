@@ -7,8 +7,8 @@
 * Technologies Used: python programming language using this project
 
 ## Features:
-Tweet Classification Categorize tweets as hate speech or non-hate speech.
-Pattern Analysis: Examine and learn from textual patterns in tweets associated with hate speech.
+1. Tweet Classification Categorize tweets as hate speech or non-hate speech.
+2. Pattern Analysis: Examine and learn from textual patterns in tweets associated with hate speech.
 
 ## Data Format
 * This project accepts the (comma separated values)CSV Files
