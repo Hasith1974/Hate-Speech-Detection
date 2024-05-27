@@ -5,7 +5,10 @@
 -Project Title: Hate Speech Detection using machine learning.
 -Description: Here the project tells about the detecting hate speech like classifies the tweets
 -Technologies Used: python programming language using this project
--Features: detecting the how tweets discribe in the dataset.
+
+## Features:
+Tweet Classification Categorize tweets as hate speech or non-hate speech.
+Pattern Analysis: Examine and learn from textual patterns in tweets associated with hate speech.
 
 ## Data Format
 -This project accepts the (comma separated values)CSV Files
@@ -17,9 +20,9 @@ Provide instructions on how to install and run your projects.
 -creating the separate dependencies for your project like virtual Environment
 
 ## Using Libraries
--pip install numpy
--pip install pandas
--pip install matplotlib
+.pip install numpy
+.pip install pandas
+.pip install matplotlib
 -pip install sklearn
 -pip install seaborn
 
