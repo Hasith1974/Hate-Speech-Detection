@@ -1,11 +1,12 @@
 # Hate Speech Detection using Machine Learning classification of tweets
- Hello guys,i hope as well this project makes a kick start for your beginning
+Description: Developed a machine learning model to classify tweets as "offensive," "hate speech," or "not hate speech/not offensive" using Natural Language Processing (NLP) techniques. The project leverages NLTK for text preprocessing, including tokenization and stopword removal, and employs a Decision Tree Classifier for classification.
 
 ## Project Lists
-* Project Title: Hate Speech Detection using machine learning.
 * Description: Here the project tells about the detecting hate speech like classifies the tweets
-* Technologies Used: python programming language using this project
-
+* Preprocessed text data using NLTK (tokenization, stopword removal, stemming/lemmatization).
+* Implemented Decision Tree Classifier for multi-class classification.
+* Evaluated model performance using accuracy, precision, recall, and F1-score.
+* Applied feature extraction techniques such as TF-IDF and Count Vectorization.
 ## Features:
 1. Tweet Classification Categorize tweets as hate speech or non-hate speech.
 2. Pattern Analysis: Examine and learn from textual patterns in tweets associated with hate speech.
